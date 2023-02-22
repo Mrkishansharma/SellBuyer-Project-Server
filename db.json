@@ -27,6 +27,30 @@
             "image":"https://m.media-amazon.com/images/I/314Rp+8XKWL._SX342_SY445_.jpg",
             "description":"Cinematic mode adds shallow depth of field and shifts focus automatically in your ",
             "brand":"apple"
+        },
+        {
+            "id":2,
+            "sellerId": 0,
+            "buyyerId": [],
+            "title": "Samsung Galaxy M04",
+            "category": "mobile",
+            "condition": "Gently Used",
+            "price": 8000,
+            "image": "https://m.media-amazon.com/images/I/814ePfNubRL._AC_UY327_FMwebp_QL65_.jpg",
+            "description": "Designed with the planet in mind - Unbox the change you want to see in the world.",
+            "brand": "samsung",
+          },
+          {
+            "id":3,
+            "sellerId":0,
+            "buyyerId":[],
+            "title":"iphone 13 pro",
+            "category":"mobile",
+            "condition":"Brand New",
+            "price":75000,
+            "image":"https://m.media-amazon.com/images/I/314Rp+8XKWL._SX342_SY445_.jpg",
+            "description":"Cinematic mode adds shallow depth of field and shifts focus automatically in your ",
+            "brand":"apple"
         }
     ]
 }
